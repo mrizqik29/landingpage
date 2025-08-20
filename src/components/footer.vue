@@ -1,13 +1,13 @@
 <template>
   <footer class="site-footer fade-in">
     <div class="social-sosmed">
-      <a href="https://www.instagram.com/username" target="_blank" rel="noopener noreferrer" class="social-icon">
+      <a href="https://www.instagram.com/mrizqik29/" target="_blank" rel="noopener noreferrer" class="social-icon">
         <Instagram />
       </a>
-      <a href="https://github.com/username" target="_blank" rel="noopener noreferrer" class="social-icon">
+      <a href="https://github.com/mrizqik29" target="_blank" rel="noopener noreferrer" class="social-icon">
         <Github />
       </a>
-      <a href="https://www.linkedin.com/in/username" target="_blank" rel="noopener noreferrer" class="social-icon">
+      <a href="www.linkedin.com/in/muhammad-rizqi-kurniawan-328195254" target="_blank" rel="noopener noreferrer" class="social-icon">
         <Linkedin />
       </a>
     </div>
